@@ -41,5 +41,6 @@ Visiting vertex new_york
 
 Visiting vertex boston
 
-Shortest path is: los_angeles las_vegas dallas washington_dc new_york boston 
+Shortest path is: los_angeles las_vegas dallas washington_dc new_york boston
+
 Distance is: 5252
