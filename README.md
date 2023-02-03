@@ -5,11 +5,14 @@ Java Programm that implements Dijkstra's algorithm using a priority Queue and ma
 Here's an example run on graph3.txt
 
 Visiting vertex los_angeles
+
   Updating dist[san_francisco] from 2147483647 to 629
+  
   Updating dist[las_vegas] from 2147483647 to 435
 
 Visiting vertex las_vegas
   Updating dist[denver] from 2147483647 to 1660
+  
   Updating dist[dallas] from 2147483647 to 2418
 
 Visiting vertex san_francisco
@@ -22,6 +25,7 @@ Visiting vertex seattle
 
 Visiting vertex dallas
   Updating dist[miami] from 2147483647 to 4579
+  
   Updating dist[washington_dc] from 2147483647 to 4531
 
 Visiting vertex minneapolis
@@ -32,6 +36,7 @@ Visiting vertex chicago
 
 Visiting vertex washington_dc
   Updating dist[boston] from 5417 to 5256
+  
   Updating dist[new_york] from 2147483647 to 4914
 
 Visiting vertex miami
